@@ -5,10 +5,12 @@
 //Created by Tai Wong
 //8/29/2024
 
-//3 rules:
-//Treat teachers and classmates with respect
-//Be safe
-//User your class time well
+//5 rules:
+//No global variables
+//No strings
+//Use <iostream> not stdio
+//avoid using a mouse when possible
+//only use break/continue if you must
 
 
 using namespace std;
